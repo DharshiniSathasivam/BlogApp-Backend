@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Introduction to React Hooks",
+    "content": "React Hooks allow functional components to manage state and lifecycle methods without using classes.",
+    "category": "Frontend",
+    "author": "Dharshini S",
+    "image": "https://opensource.fb.com/img/projects/react.jpg",
+    "tags":"Coding",
+    "createdAt": "2025-12-01T10:00:00Z",
+    "updatedAt": "2025-12-01T10:00:00Z"
+  },
+  {
+    "title": "Understanding JavaScript Closures",
+    "content": "Closures give you access to an outer function’s scope from an inner function.",
+    "category": "JavaScript",
+    "author": "Dharshini S",
+    "image": "https://picsum.photos/600/400?random=2",
+    "tags":"js",
+    "createdAt": "2025-12-02T11:00:00Z",
+    "updatedAt": "2025-12-02T11:00:00Z"
+  },
+  {
+    "title": "Node.js Basics for Beginners",
+    "content": "Node.js allows developers to run JavaScript on the server and build scalable network applications.",
+    "category": "Backend",
+    "author": "Dharshini S",
+    "image": "https://picsum.photos/600/400?random=3",
+    "tags":"node",
+    "createdAt": "2025-12-03T09:30:00Z",
+    "updatedAt": "2025-12-03T09:30:00Z"
+  },
+  {
+    "title": "Building REST APIs with Express",
+    "content": "Express.js is a minimal and flexible Node.js web application framework for building APIs.",
+    "category": "Backend",
+    "author": "Dharshini S",
+    "image": "https://picsum.photos/600/400?random=4",
+    "tags":"express js",
+    "createdAt": "2025-12-04T14:15:00Z",
+    "updatedAt": "2025-12-04T14:15:00Z"
+  },
+  {
+    "title": "MongoDB Schema Design Tips",
+    "content": "Good schema design in MongoDB improves performance and makes applications easier to maintain.",
+    "category": "Database",
+    "author": "Dharshini S",
+    "image": "https://picsum.photos/600/400?random=5",
+    "tags":"mongodb",
+    "createdAt": "2025-12-05T08:45:00Z",
+    "updatedAt": "2025-12-05T08:45:00Z"
+  },
+  {
+    "title": "CSS Flexbox Complete Guide",
+    "content": "Flexbox is a one-dimensional layout method for laying out items in rows or columns.",
+    "category": "CSS",
+    "author": "Dharshini S",
+    "image": "https://picsum.photos/600/400?random=6",
+    "tags":"css",
+    "createdAt": "2025-12-06T16:20:00Z",
+    "updatedAt": "2025-12-06T16:20:00Z"
+  },
+  {
+    "title": "Mastering Git and GitHub",
+    "content": "Git helps track code changes, while GitHub enables collaboration with teams.",
+    "category": "Tools",
+    "author": "Dharshini S",
+    "image": "https://picsum.photos/600/400?random=7",
+    "tags":"github",
+    "createdAt": "2025-12-07T12:10:00Z",
+    "updatedAt": "2025-12-07T12:10:00Z"
+  },
+  {
+    "title": "Async and Await Explained",
+    "content": "Async and await simplify asynchronous programming by making code easier to read.",
+    "category": "JavaScript",
+    "author": "Dharshini S",
+    "image": "https://picsum.photos/600/400?random=8",
+    "tags":"js",
+    "createdAt": "2025-12-08T10:50:00Z",
+    "updatedAt": "2025-12-08T10:50:00Z"
+  },
+  {
+    "title": "Deploying MERN Apps to Production",
+    "content": "Learn how to deploy a MERN stack application using cloud platforms and best practices.",
+    "category": "DevOps",
+    "author": "Dharshini S",
+    "image": "https://picsum.photos/600/400?random=9",
+    "tags":"devops",
+    "createdAt": "2025-12-09T15:40:00Z",
+    "updatedAt": "2025-12-09T15:40:00Z"
+  },
+  {
+    "title": "Improving Web App Performance",
+    "content": "Performance optimization techniques help improve loading speed and user experience.",
+    "category": "Performance",
+    "author": "Dharshini S",
+    "image": "https://picsum.photos/600/400?random=10",
+    "tags":"app",
+    "createdAt": "2025-12-10T09:00:00Z",
+    "updatedAt": "2025-12-10T09:00:00Z"
+  }
+]
