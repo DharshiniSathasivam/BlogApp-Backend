@@ -23,8 +23,11 @@ app.use((req, res, next) => {
   next()
 })
 
-mongoose.connect(process.env.MONGO_URI)
-  .then(() => console.log("Connected to MongoDB"))
+mongoose.connect(process.env.MONGO_URI, {
+  serverSelectionTimeoutMS: 30000,
+  socketTimeoutMS: 45000,
+})
+ .then(() => console.log("Connected to MongoDB"))
   .catch(err => console.log("DB connection error", err))
 
 app.use('/api/posts', postRouter)
